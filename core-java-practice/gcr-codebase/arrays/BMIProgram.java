@@ -26,10 +26,7 @@ public class BMIProgram {
             }
         }
         for (int i = 0; i < n; i++) {
-            System.out.println("Height: " + height[i] +
-                               " Weight: " + weight[i] +
-                               " BMI: " + bmi[i] +
-                               " Status: " + status[i]);
+            System.out.println("Height: " + height[i] + " Weight: " + weight[i] + " BMI: " + bmi[i] + " Status: " + status[i]);
         }
     }
 }
