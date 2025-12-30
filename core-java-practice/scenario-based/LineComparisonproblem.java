@@ -12,8 +12,8 @@ public class LineComparisonproblem {
         return line1Length.equals(line2Length);
     }
     // UC3 Comparing two lines.
-    static boolean compareLines(double line1Length, double line2Length) {
-        return Double.compare(line1Length, line2Length) == 0;
+    static boolean compareLines(Double line1Length, Double line2Length) {
+        return line1Length.compareTo(line2Length) == 0;
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -45,8 +45,6 @@ public class LineComparisonproblem {
             System.out.println("Line 1 is longer than Line 2.");
         } else {
             System.out.println("Line 2 is longer than Line 1.");
-
-        
-
+        }
     }
 }
