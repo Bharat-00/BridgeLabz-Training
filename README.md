@@ -26,9 +26,6 @@ This log documents the daily progress of tasks completed during the BridgeLabz t
 
 **23-Dec-2025 (Tuesday):** Solved and submitted every level [string manipulation](https://github.com/Bharat-00/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings) problems.
 
----
-
-
 **24-Dec-2025 (Wednesday):** Studied about the methods and solved some questions.
 
 **25-Dec-2025 (Thursday):** Solved questions related to [methods](https://github.com/Bharat-00/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods) problems.
@@ -46,6 +43,24 @@ This log documents the daily progress of tasks completed during the BridgeLabz t
 **29-Dec-2025 (Monday):** Solevd the [scenario based problem](https://github.com/Bharat-00/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based) in classroom and the [employee wager problem](https://github.com/Bharat-00/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/EmployeeWages.java) at time of review.
 
 **30-Dec-2025 (Tueday):** Solved [Line comparison](https://github.com/Bharat-00/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/LineComparisonproblem.java) and [Snake and Ladder](https://github.com/Bharat-00/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/SnakeAndLadderProblem.java) problem.
+
+**31-Dec-2025 (Wednesday):** on a new branch [oops-practice](https://github.com/Bharat-00/BridgeLabz-Training/tree/oops-practice), solved the [classes-objects](https://github.com/Bharat-00/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/classAndObject) and [Constructors, Instance vs. Class Variables, Access Modifiers](https://github.com/Bharat-00/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/classAndObject) problems.
+
+**1-Jan-2026 (Thursday):** Submission of [this, static, final key words and instanceof](https://github.com/Bharat-00/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/operators) problems.
+
+**2-Jan-2026 (Friday):** Solved [Snerio-based problems](https://github.com/Bharat-00/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+**3-Jan-2026 (Saturday):** Solved [Inheritance](https://github.com/Bharat-00/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance) and [scenario based](https://github.com/Bharat-00/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based) problems.
+
+## Week 4 :
+
+---
+
+**5-Jan-2026 (Monday):** Solved the [Encapsulation, Polymorphism, Interface and Abstract](https://github.com/Bharat-00/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance) and [Scenario-based](https://github.com/Bharat-00/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based) problems.
+
+**6-Jan-2026 (Tuesday):** Solved [Scenario-based](https://github.com/Bharat-00/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based) and some [Leetcode](https://github.com/Bharat-00/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase) problems.
+
+**7-Jan-2026 (Wednesday):** Solved [Scenario-based](https://github.com/Bharat-00/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based) problems.
 
 
 
