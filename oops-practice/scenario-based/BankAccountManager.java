@@ -5,7 +5,7 @@
  */
 class BankAccount {
     // Encapsulated fields
-    private final String accountNumber;
+    private  String accountNumber;
     private double balance;
     // Constructor
     public BankAccount(String accountNumber, double initialBalance) {
