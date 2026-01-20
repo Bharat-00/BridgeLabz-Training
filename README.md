@@ -62,5 +62,99 @@ This log documents the daily progress of tasks completed during the BridgeLabz t
 
 **7-Jan-2026 (Wednesday):** Solved [Scenario-based](https://github.com/Bharat-00/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based) problems.
 
+**8-Jan-2026 (Thursday):** Linked List scenario-based — added core implementations.
 
+- Branch: [dsa-practice](https://github.com/Bharat-00/BridgeLabz-Training/tree/dsa-practice)
+- Work: [linked list](https://github.com/Bharat-00/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list)
+- Implemented linked list based mini-systems:
+  - Inventory Management
+  - Movie Management
+  - Student Management
+  - Task Scheduler
+
+*9-Jan-2026 (Friday):* Linked List scenario-based — completed remaining problems.
+
+- Branch: [dsa-practice](https://github.com/Bharat-00/BridgeLabz-Training/tree/dsa-practice)
+- Work: [linked list](https://github.com/Bharat-00/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list)
+- Solved the remaining linked list scenario programs:
+  - Library Management
+  - Online Ticket Reservation
+  - Round Robin Scheduling
+  - Social Media Friend Connections
+  - Undo / Redo
+
+---
+
+## Week 5
+
+*10-Jan-2026 (Saturday):* Read and go through the object oriented proramming concepts.
+
+- Work: revision / review
+
+*11-Jan-2026 (Sunday):* Added DSA practice scenario-based programs.
+
+- Branch: [dsa-practice](https://github.com/Bharat-00/BridgeLabz-Training/tree/dsa-practice)
+- Work: [scenario-based](https://github.com/Bharat-00/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
+- Implemented:
+  - Flight Booking System
+  - Hospital Management System
+  - Vehicle Rental Application
+
+*12-Jan-2026 (Monday):* Added Online Banking System (scenario-based).
+
+- Branch: [oops-practice](https://github.com/Bharat-00/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+*13-Jan-2026 (Tuesday):* Added multiple scenario-based mini systems.
+
+- Branch: [oops-practice](https://github.com/Bharat-00/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+- Work:
+  - cab_booking_ride_management
+  - ecommerce_order_management
+  - hospital_management_system
+  - student_course_registration_system
+  - more...
+
+*14-Jan-2026 (Wednesday):* Explored the git operations like branching,merging and conflict resolution. 
+
+*15-Jan-2026 (Thursday):* Solved stack, queue , HashMap and Hashing funtion problems.
+
+- Branch: [dsa-practice](https://github.com/Bharat-00/BridgeLabz-Training/tree/dsa-practice/dsa-practice)
+- Work: [stack queue hashing](https://github.com/Bharat-00/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Stack-Queue-HashingFunction)
+- Solved:
+  - CircularTourProblem
+  - CustomHashMap
+  - LongestConsecutiveSequence
+  - PairWithGivenSum
+  - QueueUsingStack
+  - SlidingWindowMaximum
+  - SortStackRecursion
+  - StockSpanProblem
+  - TwoSumProblem
+  - ZeroSumSubarrays.
+
+*16-Jan-2026 (Friday):* Solved the Sorting Algorithms and get started with the Address Book System Problem.
+
+- Branch:
+  - [dsa-practice](https://github.com/Bharat-00/BridgeLabz-Training/tree/dsa-practice)
+  - [oops-practice](https://github.com/Bharat-00/BridgeLabz-Training/tree/oops-practice)
+
+- Work:
+  - [sorting algorithms](https://github.com/Bharat-00/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-algorithms)
+  - [Address Book System](https://github.com/Bharat-00/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/addressBookProblem)
+
+*17-Jan-2026 (Saturday):* Worked on Address Book System and Get started with Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader problems.
+
+- Branch:
+  - [dsa-practice](https://github.com/Bharat-00/BridgeLabz-Training/tree/dsa-practice)
+  - [oops-practice](https://github.com/Bharat-00/BridgeLabz-Training/tree/oops-practice)
+
+- Work:
+  - [Address Book System](https://github.com/Bharat-00/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/addressBookProblem)
+  - [Linear Search
+    Binary Search
+    StringBuilder
+    StringBuffer
+    BufferedReader
+    FileReader
+    InputStreamReader](https://github.com/Bharat-00/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linear-binary-search)
 
