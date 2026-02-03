@@ -1,7 +1,7 @@
 {
     "java.project.sourcePaths": [
         "oops-practice/scenario-based",
-        "collections-practice/gcr-codebase/regex-junit",
+        "data-handling-practice/gcr-codebase/csv-data-handling",
         "collections-practice/gcr-codebase/regex",
         "collections-practice/gcr-codebase/lexical-twist",
         "collections-practice/gcr-codebase/java-streams",
@@ -9,6 +9,6 @@
         "collections-practice/gcr-codebase/flip-key-logical-problem",
         "collections-practice/gcr-codebase/exception-handling",
         "collections-practice/gcr-codebase/collections",
-        "data-handling-practice/gcr-codebase/csv-data-handling"
+        "io-programming-practice/gcr-codebase/csv-data-handling"
     ]
 }

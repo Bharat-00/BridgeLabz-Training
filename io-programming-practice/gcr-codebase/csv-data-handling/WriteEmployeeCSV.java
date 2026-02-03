@@ -1,7 +1,7 @@
 import java.io.*;
 public class WriteEmployeeCSV{
     public static void main(String[] args){
-    	String filePath="data-handling-practice\\gcr-codebase\\csv-data-handling\\employees.csv";
+    	String filePath="io-programming-practice\\gcr-codebase\\csv-data-handling\\employees.csv";
         try (FileWriter writer=new FileWriter(filePath)){
             writer.append("ID,Name,Department,Salary\n");
             writer.append("201,Sarthak,IT,60000\n");

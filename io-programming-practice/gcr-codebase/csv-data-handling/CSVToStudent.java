@@ -24,7 +24,7 @@ public class CSVToStudent {
     }
     public static void main(String[] args) {
         List<Student> students = new ArrayList<>();
-        String filePath = "data-handling-practice\\gcr-codebase\\csv-data-handling\\students.csv";
+        String filePath = "io-programming-practice\\gcr-codebase\\csv-data-handling\\students.csv";
         try (BufferedReader br = Files.newBufferedReader(Paths.get(filePath))) {
             br.readLine();
             String line;

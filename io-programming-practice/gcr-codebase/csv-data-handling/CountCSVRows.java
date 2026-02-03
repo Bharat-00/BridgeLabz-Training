@@ -3,7 +3,7 @@ import java.io.FileReader;
 import java.io.IOException;
 public class CountCSVRows {
 	public static void main(String[] args) {
-		String filePath = "data-handling-practice\\gcr-codebase\\csv-data-handling\\employees.csv";
+		String filePath = "io-programming-practice\\gcr-codebase\\csv-data-handling\\employees.csv";
 		int count = 0;
 		try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
 			// skip header

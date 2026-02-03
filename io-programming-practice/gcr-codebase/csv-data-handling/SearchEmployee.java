@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 public class SearchEmployee {
 	public static void main(String[] args) {
-		String filePath = "data-handling-practice\\gcr-codebase\\csv-data-handling\\employees.csv";
+		String filePath = "io-programming-practice\\gcr-codebase\\csv-data-handling\\employees.csv";
 		String line;
 		boolean found = false;
 		Scanner sc = new Scanner(System.in);

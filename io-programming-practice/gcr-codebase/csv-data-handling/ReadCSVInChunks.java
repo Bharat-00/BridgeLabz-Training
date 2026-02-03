@@ -1,7 +1,7 @@
 import java.io.*;
 public class ReadCSVInChunks {
     public static void main(String[] args) {
-        String filePath = "data-handling-practice\\gcr-codebase\\csv-data-handling\\large.csv";
+        String filePath = "io-programming-practice\\gcr-codebase\\csv-data-handling\\large.csv";
         int batchSize = 100;
         int totalCount = 0;
         int batchCount = 0;

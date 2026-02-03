@@ -1,7 +1,7 @@
 import java.io.*;
 public class ReadStudentCSV {
 	public static void main(String[] args) {
-		String filePath = "data-handling-practice\\gcr-codebase\\csv-data-handling\\students.csv";
+		String filePath = "io-programming-practice\\gcr-codebase\\csv-data-handling\\students.csv";
 		String line;
 		try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
 			br.readLine();

@@ -2,9 +2,9 @@ import java.io.*;
 import java.util.*;
 public class MergeCSVFiles {
     public static void main(String[] args) {
-        String file1 = "data-handling-practice\\gcr-codebase\\csv-data-handling\\students1.csv";
-        String file2 = "data-handling-practice\\gcr-codebase\\csv-data-handling\\students2.csv";
-        String outputFile = "data-handling-practice\\gcr-codebase\\csv-data-handling\\merged_students.csv";
+        String file1 = "io-programming-practice\\gcr-codebase\\csv-data-handling\\students1.csv";
+        String file2 = "io-programming-practice\\gcr-codebase\\csv-data-handling\\students2.csv";
+        String outputFile = "io-programming-practice\\gcr-codebase\\csv-data-handling\\merged_students.csv";
         Map<String, String[]> studentMap = new HashMap<>();
         try (
             BufferedReader br1 = new BufferedReader(new FileReader(file1));

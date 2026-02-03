@@ -1,8 +1,8 @@
 import java.io.*;
 public class UpdateEmployeeSalary{
     public static void main(String[] args){
-        String inputFile="data-handling-practice\\gcr-codebase\\csv-data-handling\\employees.csv";
-        String outputFile="data-handling-practice\\gcr-codebase\\csv-data-handling\\updated_employees.csv";
+        String inputFile="io-programming-practice\\gcr-codebase\\csv-data-handling\\employees.csv";
+        String outputFile="io-programming-practice\\gcr-codebase\\csv-data-handling\\updated_employees.csv";
         String line;
         try(
             BufferedReader br=new BufferedReader(new FileReader(inputFile));
