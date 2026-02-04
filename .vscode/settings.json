@@ -10,5 +10,6 @@
         "collections-practice/gcr-codebase/exception-handling",
         "collections-practice/gcr-codebase/collections",
         "io-programming-practice/gcr-codebase/csv-data-handling"
-    ]
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic"
 }
