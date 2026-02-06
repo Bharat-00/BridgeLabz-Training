@@ -1,5 +1,6 @@
-import java.util.*;
-// ---------------- STUDENT CLASS ----------------
+import java.util.ArrayList;
+import java.util.List;
+//STUDENT CLASS
 class Student {
     int rollNo;
     int marks;
@@ -8,7 +9,7 @@ class Student {
         this.marks = marks;
     }
 }
-// ---------------- MERGE SORT LOGIC ----------------
+//MERGE SORT LOGIC
 class MergeSort {
     public static void sort(List<Student> list) {
         if (list.size() <= 1) return;
@@ -32,7 +33,7 @@ class MergeSort {
         while (j < right.size()) result.set(k++, right.get(j++));
     }
 }
-// ---------------- MAIN CLASS ----------------
+//MAIN CLASS
 public class EduResults {
     public static void main(String[] args) {
         List<Student> stateRankList = new ArrayList<>();
@@ -43,7 +44,7 @@ public class EduResults {
         stateRankList.add(new Student(104, 92));
         stateRankList.add(new Student(105, 81));
         MergeSort.sort(stateRankList);
-        System.out.println("📊 Final State Rank List:");
+        System.out.println("Final State Rank List:");
         for (Student s : stateRankList) {
             System.out.println("Roll No: " + s.rollNo + ", Marks: " + s.marks);
         }

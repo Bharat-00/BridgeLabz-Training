@@ -89,9 +89,9 @@ public class CinemaTimeApp {
         } catch (InvalidTimeFormatException e) {
             System.out.println(e.getMessage());
         }
-        System.out.println("\n--- All Movies ---");
+        System.out.println("\nAll Movies");
         manager.displayAllMovies();
-        System.out.println("\n--- Search Result ---");
+        System.out.println("\nSearch Result");
         manager.searchMovie("end");
         manager.generateReport();
     }

@@ -1,5 +1,10 @@
-import java.util.*;
-// ---------------- CUSTOMER CLASS ----------------
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Map;
+import java.util.Queue;
+//CUSTOMER CLASS
 class Customer {
     String name;
     List<String> items;
@@ -8,7 +13,7 @@ class Customer {
         this.items = items;
     }
 }
-// ---------------- CHECKOUT SYSTEM ----------------
+//CHECKOUT SYSTEM
 class CheckoutSystem {
     private Queue<Customer> queue = new LinkedList<>();
     private Map<String, Integer> priceMap = new HashMap<>();
@@ -43,14 +48,14 @@ class CheckoutSystem {
         System.out.println("Customer: " + customer.name + " | Total Bill: ₹" + bill);
     }
 }
-// ---------------- MAIN CLASS ----------------
+//MAIN CLASS
 public class SmartCheckout {
     public static void main(String[] args) {
         CheckoutSystem system = new CheckoutSystem();
         system.addCustomer(new Customer("Amit", Arrays.asList("Milk", "Bread")));
         system.addCustomer(new Customer("Neha", Arrays.asList("Rice", "Milk")));
         system.addCustomer(new Customer("Rahul", Arrays.asList("Milk", "Milk")));
-        System.out.println("\n🛒 Processing Customers...\n");
+        System.out.println("\n Processing Customers...\n");
         system.processCustomer();
         system.processCustomer();
         system.processCustomer();
