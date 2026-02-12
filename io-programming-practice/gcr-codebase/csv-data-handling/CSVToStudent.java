@@ -16,10 +16,7 @@ public class CSVToStudent {
         }
         @Override
         public String toString() {
-            return "Student [ID=" + id +
-                   ", Name=" + name +
-                   ", Age=" + age +
-                   ", Marks=" + marks + "]";
+            return "Student [ID=" + id + ", Name=" + name + ", Age=" + age + ", Marks=" + marks + "]";
         }
     }
     public static void main(String[] args) {
