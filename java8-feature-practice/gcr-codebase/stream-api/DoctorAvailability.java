@@ -22,9 +22,6 @@ public class DoctorAvailability {
                 new Doctor("Dr. C", "Orthopedics", true),
                 new Doctor("Dr. D", "Dermatology", true)
         );
-        doctors.stream()
-                .filter(Doctor::isAvailableOnWeekend)
-                .sorted(Comparator.comparing(Doctor::getSpecialty))
-                .forEach(d -> System.out.println(d.getName() + " - " + d.getSpecialty()));
+        doctors.stream().filter(Doctor::isAvailableOnWeekend).sorted(Comparator.comparing(Doctor::getSpecialty)).forEach(d -> System.out.println(d.getName() + " - " + d.getSpecialty()));
     }
 }

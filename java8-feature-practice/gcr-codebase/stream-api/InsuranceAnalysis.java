@@ -22,13 +22,7 @@ public class InsuranceAnalysis {
                 new Claim("Car", 20000),
                 new Claim("Home", 30000)
         );
-        Map<String, Double> averageClaims =
-                claims.stream()
-                        .collect(groupingBy(
-                                Claim::getType,
-                                averagingDouble(Claim::getAmount)
-                        ));
-        averageClaims.forEach((type, avg) ->
-                System.out.println(type + " Average: " + avg));
+        Map<String, Double> averageClaims =claims.stream().collect(groupingBy(Claim::getType,averagingDouble(Claim::getAmount)));
+        averageClaims.forEach((type, avg) ->System.out.println(type + " Average: " + avg));
     }
 }

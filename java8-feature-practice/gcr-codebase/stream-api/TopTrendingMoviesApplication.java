@@ -12,11 +12,7 @@ public class TopTrendingMoviesApplication {
                 new Movie("Movie F", 6.8, 2021)
         );
         // Fetches top 5 trending movies
-        movies.stream()
-                .filter(movie -> movie.getRating() >= 8.5)
-                .sorted((m1, m2) -> Double.compare(m2.getRating(), m1.getRating()))
-                .limit(5)
-                .forEach(System.out::println);
+        movies.stream().filter(movie -> movie.getRating() >= 8.5).sorted((m1, m2) -> Double.compare(m2.getRating(), m1.getRating())).limit(5).forEach(System.out::println);
     }
 }
 class Movie {

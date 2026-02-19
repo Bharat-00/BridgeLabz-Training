@@ -20,9 +20,6 @@ public class ExpiringMemberships {
         );
         LocalDate today = LocalDate.now();
         LocalDate next30Days = today.plusDays(30);
-        members.stream()
-                .filter(m -> !m.getExpiryDate().isBefore(today) &&
-                             !m.getExpiryDate().isAfter(next30Days))
-                .forEach(m -> System.out.println(m.getName() + " expires on " + m.getExpiryDate()));
+        members.stream().filter(m -> !m.getExpiryDate().isBefore(today) && !m.getExpiryDate().isAfter(next30Days)).forEach(m -> System.out.println(m.getName() + " expires on " + m.getExpiryDate()));
     }
 }
