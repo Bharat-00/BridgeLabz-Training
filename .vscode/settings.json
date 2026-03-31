@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "oops-practice/scenario-based",
+        "io-programming-practice/gcr-codebase/csv-data-handling",
         "data-handling-practice/gcr-codebase/csv-data-handling",
         "collections-practice/gcr-codebase/regex",
         "collections-practice/gcr-codebase/lexical-twist",
@@ -12,4 +13,6 @@
         "io-programming-practice/gcr-codebase/csv-data-handling"
     ],
     "java.configuration.updateBuildConfiguration": "automatic"
+        "collections-practice/gcr-codebase/reflection-annotation"
+    ]
 }
